@@ -42,6 +42,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
+-----------------------Answers-------------------------------
+
+1) Semantic HTML adds meaning to basic HTML.  It allows you to organize and section HTML elements.  This is important because it provides an additional level of specificity to your code.
+
+2) Display: block displays an element as a block element.  Block elements start a new line 
+and take up the entire width of the page.  Display: inline displays an element as an inline element.  Inline elements do not start a new line and only take up as much space as needed.
+
+3) There are four area of the box model: margin, border, padding, and content.
+
+4) While using flexbox, the align:center property will align the content across the x-axis.
+
+5) Git is important because it allow a team of developers to work on the same project at the same time.  Git also keeps track of all of the changes made within a project.
+
+
+
+
+
+
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
